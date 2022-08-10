@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6282173242194','6282173242194','6282173242194'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6282173242194'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6282173242194' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285220980276','6285220980276','6285220980276'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285220980276'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285220980276' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Risky' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'iky-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Risky' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'SonyGans' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'PETER' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'SonyGans' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
